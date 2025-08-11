@@ -13,9 +13,7 @@
      ./modules/system.nix
      ./modules/desktop.nix
      ./modules/gaming.nix
-#     ./modules/mounts.nix
      ./modules/network.nix
-#     ./modules/vms.nix
     ];
 
   # Allow unfree packages
