@@ -18,6 +18,5 @@
     #godot
     #vscode-fhs
     nmap
-    lmstudio
   ];
 }
