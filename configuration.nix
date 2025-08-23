@@ -18,6 +18,8 @@
      ./modules/sound.nix
      ./modules/system.nix
      ./modules/users.nix
+     ./modules/security.nix
+     ./modules/sddm.nix
     ];
 
   # Allow unfree packages
