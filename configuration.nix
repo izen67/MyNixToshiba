@@ -20,6 +20,7 @@
      ./modules/users.nix
      ./modules/security.nix
      ./modules/sddm.nix
+     ./modules/printing.nix
     ];
 
   # Allow unfree packages
