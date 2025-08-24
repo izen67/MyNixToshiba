@@ -6,6 +6,11 @@
   boot.loader.grub.device = "/dev/sda";
   boot.loader.grub.useOSProber = true;
 
+  # Enable OpenGL
+  hardware.graphics = {
+    enable = true;
+  };
+
   # Use LTS kernel.
   boot.kernelPackages = pkgs.linuxPackages_6_12;
 }
