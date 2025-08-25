@@ -13,10 +13,9 @@
     qbittorrent
     chromium
     brave
-    #anydesk
-    #rustdesk
-    #godot
-    #vscode-fhs
+    anydesk
     nmap
+    unrar
+    spotify
   ];
 }
